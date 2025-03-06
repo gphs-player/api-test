@@ -1,4 +1,5 @@
 {
-  "name":"player",
-  "version":100
+  "apiPath":"https://www.baidu.com",
+  "h5Path":"https://h5.baidu.com",
+  "version":100,
 }
