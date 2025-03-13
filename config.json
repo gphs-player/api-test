@@ -1,5 +1,4 @@
 {
-  "apiPath":"https://test-api.pesachaptz.com",
-  "h5Path":"https://app.pesayakobrand.net",
-  "version":103
+  "a":"https://test-api.pesachaptz.com",
+  "b":"https://app.pesayakobrand.net"
 }
