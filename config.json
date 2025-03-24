@@ -1,4 +1,5 @@
 {
-  "a":"https://service.pesachaptzes.com",
-  "b":"https://app.pesachaptzes.com"
+  "apiPath":"https://test-api.pesachaptz.com",
+  "h5Path":"https://app.pesachaptzes.com",
+  "delPath":"https://del.pesachaptzes.com"
 }
